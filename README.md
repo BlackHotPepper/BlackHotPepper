@@ -1,8 +1,13 @@
 <div>
   <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eliezer Guimarães! <br> </h1>
   <h3> <i>🖊️called as</i>: black-hot-pepper </h3>
-
+  
+  <div style="display: inline_block">
+    <a href="https://www.facebook.com/eliezerguimaransmoreira.guimaransmoreira/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="35px" height="35px">
+      <a href="https://www.facebook.com/eliezerguimaransmoreira.guimaransmoreira/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35px" height="35px">
+  </div>
 </div>
+    
 <div>
   <h2>About me</h2>
   
