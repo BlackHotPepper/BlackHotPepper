@@ -15,7 +15,7 @@
   - 🔥 Software Engineer and Pentester
   - 💻 Back-end
   - 🔐 Information Security
-  - Web Developer
+  - 🌎 Web Developer
   
 </div>
 <div style="display: inline_block">
