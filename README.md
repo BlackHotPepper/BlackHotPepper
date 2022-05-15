@@ -19,7 +19,7 @@
   
 </div>
 <div style="display: inline_block">
-  <h2>Languages</h2>
+  <h2>Languages & Skills</h2>
   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHotPepper&layout=compact&theme=dark"/>
   <hr>
   
