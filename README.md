@@ -12,10 +12,10 @@
 <div>
   <h2>About me</h2>
   
-  - 🔥 Software Engineer and Pentester
-  - 💻 Back-end
+  - ⚙️ Software Engineering
+  - 💻 Back-end & Front-end
   - 🔐 Information Security
-  - 🌎 Web Developer
+  - 🖊️ Design
   
 </div>
 <div style="display: inline_block">
