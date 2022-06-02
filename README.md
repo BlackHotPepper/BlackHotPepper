@@ -1,5 +1,5 @@
 <div>
-  <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eliezer Guimarães! <br> </h1>
+  <h1 align="left">Hi, I'm Eliezer Guimarães! <br> </h1>
   <h3> <i>🖊️called as</i>: black-hot-pepper </h3>
   <div style="display: inline_block">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
